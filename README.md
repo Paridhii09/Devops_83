@@ -94,33 +94,6 @@ Automatically installs required tools and services without manual intervention.
 
 🔹 Scalable Environment
 
-Infrastructure can be scaled horizontally as telecom demand increases.
-
-High-Level Workflow
----------------------------------------
-Developer Push → Git Repository
-
-        ↓
-        
-CI/CD Pipeline Triggered
-
-        ↓
-        
-IaC Script Execution
-
-        ↓
-        
-Provision Infrastructure (Local/Cloud)
-
-        ↓
-        
-Deploy Telecom Services
-
-        ↓
-        
-System Ready for Use
-
-
 Expected Benefits
 ---------------------------------------------------------------------------
 🔹Faster infrastructure setup
